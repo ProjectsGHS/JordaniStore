@@ -1,4 +1,4 @@
-<h1 align="center"> JORDANI STORE </h1>
+<h1 align="center"> CARTÃO VISITAS JORDANI </h1>
 
 
 ## 🚀 Tecnologias
