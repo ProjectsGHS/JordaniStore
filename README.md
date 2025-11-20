@@ -12,6 +12,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
+Desenvolvido um projeto para otimizar a presença online de uma loja de roupas, reunindo todos os seus links essenciais em um único e prático cartão de visitas digital.
 
 - [Acesse o projeto finalizado, online]()
 
